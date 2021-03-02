@@ -27,7 +27,6 @@ void gotoxy(int x, int y){
 void menu()
 {
 	system("CLS");
-	cout<<"================================\n";
 	cout<<"Menu\n";
 	cout<<"================================\n";
 	cout<<"1. Pembuatan Tiket\n";
